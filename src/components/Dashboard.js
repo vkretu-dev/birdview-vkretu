@@ -97,7 +97,6 @@ export const Dashboard = (props) => {
                 },
             }
         };
-
         setLineOptions(lineOptions)
     }
 
